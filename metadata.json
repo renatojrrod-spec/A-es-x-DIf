@@ -1,0 +1,8 @@
+{
+  "name": "Arbitragem de Ações e CDI Futuro",
+  "description": "Plataforma de inteligência financeira para calcular correlação, volatilidade e oportunidades de arbitragem entre ações brasileiras e a curva de juros futura do CDI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
